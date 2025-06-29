@@ -1,0 +1,3 @@
+cryptography>=2.6.1
+pycrypto>=2.6.1
+pkcs7>=0.1.2
