@@ -1,3 +1,3 @@
-Here is a set of utility classes
+Here is a set of utility classes in Java, C#, and Python for AES encryption and decryption. All implementations use CBC mode with PKCS7 (or compatible PKCS5 in Java) padding and derive keys using PBKDF2 with HMAC-SHA1. For successful interoperability, critical parameters like the 128-bit AES key length, CBC mode, PKCS7 padding, 65536 PBKDF2 iterations, password, salt, and a 16-byte IV must be identical across languages.
 
-in Java, C#, and Python for AES encryption and decryption. All implementations use CBC mode with PKCS7 (or compatible PKCS5 in Java) padding and derive keys using PBKDF2 with HMAC-SHA1. For successful interoperability, critical parameters like the 128-bit AES key length, CBC mode, PKCS7 padding, 65536 PBKDF2 iterations, password, salt, and a 16-byte IV must be identical across languages.
+Tryed to expiriment if i can wriite a code to encrypt string in dfifferent languages. Angular part is not tested yet.
